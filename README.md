@@ -2,7 +2,7 @@
 
 An interactive 3D maze generator and solver using Breadth-First Search (BFS) algorithm, built with React and Three.js.
 
-![3D Maze Solver Screenshot](https://i.imgur.com/example-screenshot.jpg)
+![3D Maze Solver Screenshot](demo.png)
 
 ## Features
 

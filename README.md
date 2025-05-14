@@ -110,8 +110,3 @@ function solveMazeBFS(maze, start, end) {
 ## License
 
 This project is available under the MIT License.
-
-## Acknowledgments
-
-- Three.js community for excellent documentation and examples
-- React team for creating a robust framework for interactive applications
